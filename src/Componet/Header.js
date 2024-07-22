@@ -16,7 +16,7 @@ const pages = [
     {name :'ABOUT', path:'/about'}, 
     {name :'SERICES', path:'/SERICES'}, 
     {name :'FEATURES', path:'/FEATURES'}, 
-    {name :'PRICING', path:'/PRICING'}, 
+    // {name :'PRICING', path:'/PRICING'}, 
     {name :'CLINTS', path:'/CLINTS'}, 
     {name :'BLOG', path:'/BLOG'}, 
     {name : 'CONTACT US', path:'/CONTACT'}];

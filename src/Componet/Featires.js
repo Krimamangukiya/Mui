@@ -3,7 +3,7 @@ import PublishedWithChangesIcon from '@mui/icons-material/PublishedWithChanges';
 import AlignVerticalBottomIcon from '@mui/icons-material/AlignVerticalBottom';
 import React from 'react'
 import LoopIcon from '@mui/icons-material/Loop';
-import Pricing from './Pricing';
+// import Pricing from './Pricing';
 
 function Featires() {
     return (

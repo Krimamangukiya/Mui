@@ -10,7 +10,7 @@ import Main from './Componet/Main';
 import About from './Componet/About';
 import Service from './Componet/Servise';
 import Featires from './Componet/Featires';
-import Pricing from './Componet/Pricing';
+// import Pricing from './Componet/Pricing';
 import Footer from './Componet/Footer';
 import Contact from './Componet/Contact';
 function App() {
@@ -35,9 +35,9 @@ function App() {
           <Route path='/FEATURES'>
             <Featires />
           </Route>
-          <Route path='/PRICING'>
+          {/* <Route path='/PRICING'>
             <Pricing />
-          </Route>
+          </Route> */}
           <Route path='/CONTACT'>
             <Contact />
           </Route>
